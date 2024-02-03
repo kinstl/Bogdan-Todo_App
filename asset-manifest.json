@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Bogdan-Todo_App/static/css/main.110642b0.css",
+    "main.js": "/Bogdan-Todo_App/static/js/main.0e69267e.js",
+    "index.html": "/Bogdan-Todo_App/index.html",
+    "main.110642b0.css.map": "/Bogdan-Todo_App/static/css/main.110642b0.css.map",
+    "main.0e69267e.js.map": "/Bogdan-Todo_App/static/js/main.0e69267e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.110642b0.css",
+    "static/js/main.0e69267e.js"
+  ]
+}
