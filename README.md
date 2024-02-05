@@ -1,38 +1,29 @@
-# React Project for the React Course
 
-## Available Scripts
+# Bogdan-Todo_App
 
-In the project directory, you can run:
+## Overview
 
-### `npm start`
+This Todo application, built using React, offers a simple and intuitive interface for managing your daily tasks. The application provides a dark-themed user interface that allows users to add, delete, and mark tasks as completed.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Add New Tasks**: Users can enter new tasks into the input field and submit them to the list by clicking the 'Submit' button.
+- **Task List**: Tasks are displayed in a list format, each with a checkbox and delete option.
+- **Delete Tasks**: Tasks can be removed from the list by clicking the delete icon.
+- **Task Completion**: Users can mark tasks as completed by clicking the checkbox next to the task. Completed tasks are visually distinguished and moved to the bottom of the list.
+- **Completion Counter**: The application keeps track of the number of completed tasks and displays this count to the user.
 
-### `npm test`
+## Usage
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. **Adding a Task**: Simply type in the task in the 'Enter new todo' field and click 'Submit'.
+2. **Deleting a Task**: Click on the trash can icon to remove a task from the list.
+3. **Completing a Task**: Click on the checkbox to mark a task as completed. Completed tasks will be checked off and moved to the bottom of the list.
 
-### `npm run build`
+## Installation
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+To run this application on your local machine:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+1. Clone the repository to your local machine.
+2. Navigate to the cloned directory via your terminal.
+3. Run `npm install` to install all the required dependencies.
+4. After the installation is complete, run `npm start` to start the application in your local development server.
